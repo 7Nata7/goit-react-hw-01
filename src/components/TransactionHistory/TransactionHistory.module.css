@@ -1,0 +1,36 @@
+thead tr {
+  background-color: rgb(33, 33, 40);
+  color: white;
+  font-size: 24px;
+}
+
+th {
+  padding: 15px 50px;
+}
+
+tr {
+  border: 1px solid rgb(195, 38, 38);
+}
+
+td {
+  padding: 10px 50px;
+  text-align: center;
+  font-size: 20px;
+}
+
+.type {
+  text-transform: capitalize;
+}
+
+.even {
+  background-color: white;
+}
+
+.odd {
+  background-color: grey;
+}
+
+th,
+td {
+  border: 1px solid black;
+}

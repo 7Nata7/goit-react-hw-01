@@ -1,0 +1,25 @@
+.cards {
+  border: 2px solid #292424;
+  padding: 15px;
+}
+
+.avatar {
+  width: 100px;
+  border-radius: 5%;
+}
+
+.name {
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.online {
+  color: green;
+  font-size: 20px;
+}
+
+.offline {
+  color: red;
+  font-size: 20px;
+}

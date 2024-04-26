@@ -1,0 +1,11 @@
+.friends {
+  list-style: none;
+  padding: 0;
+  width: 500px;
+  display: flex;
+  gap: 10px;
+  border-radius: 5%;
+  text-align: center;
+  padding: 20px;
+  background-color: var(--background-color);
+}
